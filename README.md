@@ -1,4 +1,3 @@
 # odin-recipes
 First Project from The Odin Project.
-#Language 
-html
+A food recipe website
